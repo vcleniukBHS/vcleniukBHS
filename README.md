@@ -4,6 +4,7 @@
     - RPG
     - Gaming
     - Reading
+    - Zombie movies
 - 🌱 I’m currently learning ...
     - RHEL CSA
     - Ansible
